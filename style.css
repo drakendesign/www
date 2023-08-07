@@ -1,0 +1,29 @@
+
+body {
+    background-color: #000;
+}
+
+.title {
+    color: #fff;
+    font-size: 32;
+    font-family: "Copperplate";
+    text-align: right;
+    opacity: 0.85;
+}
+
+.logo {
+    opacity: 1.0;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+}
+  
+.column {
+    flex: 50%;
+    text-align: left;
+    padding: 50px;
+}
